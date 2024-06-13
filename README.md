@@ -1,7 +1,7 @@
 - created dockerfile using apache:`latestversion`|apline
 - exposed port is `80`
 - cmd `docker build -t imagename .`
-- cmd `docker run -d -p 80:80 my-web-app`
+- cmd `docker run -d -p 80:80 imagename`
 
 ## To able to push your image to docker hub follow below:
 
