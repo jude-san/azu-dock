@@ -7,3 +7,5 @@
 
 - tag your local image, make sure you create a repository first `docker tag local-image-name username/respositoryname:latest`
 - push tagged image `docker push username/respositoryname:latest`
+
+### Docker Hub Repository link: [Docker Hub](https://hub.docker.com/r/judekhay/static-web)
